@@ -1,0 +1,50 @@
+export const bookData = [
+  {
+    id: 1,
+    title: "To Kill a mocking bird",
+    category: "currently reading",
+    author: "Harper lee",
+    image: "https://m.media-amazon.com/images/I/51IXWZzlgSL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg",
+    price: 8.99,
+  },
+  {
+    id: 2,
+    title: "Think and Grow Rich",
+    category: "currently reading",
+    author: "Napoleon Hill",
+    image: "https://m.media-amazon.com/images/I/61y04z8SKEL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg",
+    price: 6.99,
+  },
+  {
+    id: 3,
+    title: "The Almanack Of Naval Ravikant",
+    category: "want to read",
+    author: "Eric Jorgenson",
+    image: "https://m.media-amazon.com/images/I/31EQXd8E9eL.jpg",
+    price: 8.99,
+  },
+  {
+    id: 4,
+    title: "The Alchemist",
+    category: "want to read",
+    author: "Paulo Coelho",
+    image: "https://m.media-amazon.com/images/I/51Z0nLAfLmL.jpg",
+    price: 7.99,
+  },
+  {
+    id: 5,
+    category: "read",
+    title: "A Game of Thrones",
+    author: "George R. R. Martin",
+    image: "https://m.media-amazon.com/images/I/61iRBvRYEcL._SX218_BO1,204,203,200_QL40_FMwebp_.jpg",
+    price: 10.99,
+  },
+  {
+    id: 6,
+    category: "read",
+    title: "Sapiens",
+    author: "Yuval Noah Harari",
+    image: "https://m.media-amazon.com/images/I/51Sn8PEXwcL._SY346_.jpg",
+    price: 10.99,
+  }
+];

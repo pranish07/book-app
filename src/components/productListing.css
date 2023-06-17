@@ -1,0 +1,13 @@
+.category-class h2, h1{
+    text-align: center;
+}
+.item-container{
+    display: flex;
+    gap:2rem;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.item img{
+    width: 100px;
+}
+
